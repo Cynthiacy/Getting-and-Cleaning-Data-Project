@@ -23,7 +23,7 @@ Uses descriptive activity names to name the activities in the data set
 Appropriately labels the data set with descriptive variable names.
 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-# R Script
+# R Script & MeanData.txt
 
 The script(run_analysis.R) includes all the steps of the project, including the download and read parts in the beginning. All needs to do is download the .R file, open the RStudio, set working directory to the directory which contains run_analysis.R and type source("run_analysis.R").
 
